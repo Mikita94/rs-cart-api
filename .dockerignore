@@ -1,0 +1,8 @@
+# Project build generated files
+node_modules
+npm-debug.log
+dist
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+.git
+.gitignore
